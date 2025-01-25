@@ -1,6 +1,5 @@
-To create a comprehensive `README.md` for your CS50AI projects, here's a sample structure:
 
----
+
 
 ![CS50AI](https://github.com/user-attachments/assets/ddd278e1-4fb7-4744-bea3-a4adf95aa4d3)
 
@@ -54,8 +53,8 @@ This repository includes the following projects:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cs50ai-projects.git
-   cd cs50ai-projects
+   git clone https://github.com/IosamaI/CS50AI.git
+  
    ```
 
 2. Set up a virtual environment:
